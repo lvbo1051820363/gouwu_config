@@ -25,7 +25,7 @@ zuul:
 spring:
   profiles: test
   application:
-      name: microservice-zuul-gateway
+      name: microservice-zuul-gateway-test
 server:
   port: 9528
 eureka:
